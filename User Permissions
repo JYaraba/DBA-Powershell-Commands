@@ -1,0 +1,1 @@
+Get-DbaUserPermission -SqlInstance LisCore | Format-Table -AutoSize > C:\Temp\Liscore.csv
